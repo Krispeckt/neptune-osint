@@ -1,6 +1,6 @@
 # Neptune Osint
 
-<img src=""  width="249px" height="192px" align="right"></img>
+<img src="https://raw.githubusercontent.com/Krispeckt/neptune-osint/refs/heads/main/assets/avatar.png"  width="200px" height="200px" align="right"></img>
 
 Powerful Software written in Python
 
