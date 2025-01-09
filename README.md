@@ -17,3 +17,15 @@ Powerful Software written in Python
 - Email lookup/tracker
 - Website whois/sqlmap/url finder
 - Username tracker on websites
+
+### How to setup?
+
+```bash
+pip install poetry
+```
+```bash
+poetry update
+```
+```bash
+poetry run python main.py
+```
