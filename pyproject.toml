@@ -16,3 +16,4 @@ python-whois = { git = "https://github.com/richardpenman/whois.git" }
 bs4 = "^0.0.2"
 dnspython = "^2.7.0"
 fake-useragent = "^2.0.3"
+requests = "^2.31.0"
